@@ -1,0 +1,21 @@
+{
+  "name": "Fromage",
+  "version": "1.0",
+  "manifest_version": 2,
+  "description": "Inserts information on newegg pages about open box items",
+  "content_scripts": [
+    {
+      "matches": [
+        "http://newegg.com/*",
+        "https://newegg.com/*",
+        "http://*.newegg.com/*",
+        "https://*.newegg.com/*"
+      ],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ],
+  "icons" : {
+    "48" : "fromage-48.png"
+  }
+}
