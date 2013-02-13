@@ -33,3 +33,8 @@ Please report any problems or bugs you find as issues on this repository.
 ###Attribution
 
 Cheese icon created by [Matthieu James](http://tiheum.deviantart.com/)
+
+###License
+
+This project is licensed under the zlib license, the full text of which is provided in the LICENSE file.
+
