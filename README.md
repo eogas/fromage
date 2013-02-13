@@ -29,3 +29,7 @@ Please report any problems or bugs you find as issues on this repository.
 -----
 ![Previous openbox price](https://raw.github.com/eogas/fromage/master/img/fromage2.png)
 -----
+
+###Attribution
+
+Cheese icon created by [Matthieu James](http://tiheum.deviantart.com/)
