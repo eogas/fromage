@@ -17,5 +17,6 @@
   ],
   "icons" : {
     "48" : "fromage-48.png"
-  }
+  },
+  "homepage_url": "https://github.com/eogas/fromage"
 }
