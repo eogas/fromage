@@ -10,7 +10,8 @@ Fortunately, it's relatively easy to load an unpacked extension in Chrome:
 
 1. Pull this repo, or download the zip and extract it somewhere.
 2. In Chrome, navigate to Tools -> Extensions
-3. Click "Load unpacked extension..." and point it to the base directory you just grabbed.
+3. Make sure you have Developer Mode enabled (checkbox in the upper right)
+4. Click "Load unpacked extension..." and point it to the base directory you just grabbed.
 
 And it should be good to go!
 
