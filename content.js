@@ -60,7 +60,10 @@ function doFromage() {
 	}
 	
 	for (var div in priceDivs) {
-		priceDivs[div].appendChild(obPriceDiv);
+		if (priceDivs[div].parentElement.style['display'] !== "none") {
+			priceDivs[div].appendChild(obPriceDiv);
+			break;
+		}
 	}
 }
 
